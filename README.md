@@ -1,5 +1,7 @@
 # Edmonton BuildLens
 
+[Open the live dashboard](https://YOUR-APP-NAME.streamlit.app/)
+
 Edmonton BuildLens is a dashboard for exploring building-permit activity across Edmonton. It brings permit counts, declared construction values, housing units added, and neighbourhood comparisons into one place.
 
 I built this project to work through a complete data workflow: fetching public records, cleaning them, storing analysis tables, and turning the results into an interactive application. The first version is deployed on Streamlit Community Cloud. I am continuing to improve the interface and the analysis.
