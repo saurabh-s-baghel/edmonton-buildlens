@@ -38,12 +38,12 @@ def format_currency(value: float) -> str:
 
 
 st.set_page_config(
-    page_title="Edmonton Construction Intelligence",
+    page_title="Edmonton BuildLens",
     page_icon="ECI",
     layout="wide",
 )
 
-st.title("Edmonton Construction Intelligence")
+st.title("Edmonton BuildLens")
 st.caption(
     "City of Edmonton building permits: EDA, neighbourhood trends, and simple clustering."
 )
